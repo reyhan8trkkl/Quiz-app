@@ -1,7 +1,7 @@
 {
   "name": "secondapp",
   "version": "0.1.0",
-   "homepage": "https://reyhan8trkkl.github.io/Quiz-App",
+   "homepage": "https://reyhan8trkkl.github.io/Quiz-App/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.3",
